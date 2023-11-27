@@ -1,3 +1,18 @@
+<div align=center>
+
+![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/77ba308a-dfc7-4b6a-ab32-9b4f879cd722)
+
+
+# 🗡️💻 League Of Lengend 승패예측 딥러닝🏹🎮 
+  
+Riot Games에서 제공하는 게임 데이터를 활용한 게임 승패 예측 딥러닝 프로젝트
+ 
+<h2>:heavy_check_mark:Tech Stack</h2>
+<img src="https://img.shields.io/badge/PyTorch-E34F26?style=flat-square&logo=PyTorch&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+</div>
+
 # 1. 개 요
 League Of Lengend(이하 LOL)는 전 세계에서 즐기는 대표적인 컴퓨터 게임이다. LOL은 e-sports 산업에서 대표적인 콘텐츠로 자리매김하고 있으며, 2022년 항저우 아시안 게임에서는 정식 종목으로 채택될 만큼 그 영향력은 이미 검증되어 있는 사실이다. 
 
