@@ -19,10 +19,21 @@ League Of Lengend(이하 LOL)는 현재 전 세계적으로 1억 명 이상의 �
 ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/d56aefae-eab1-4462-aebe-60121041e297)
 
 <div align=center>
+  
 [[자료: 'GODS' MV 캡쳐본]](https://www.youtube.com/watch?v=C3GouGa0noM)
-/div>
+
+</div>
 
 LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 분석할 수 있는 데이터를 무료로 공개하고 있다. Riot Games API에서는 LOL 소환사의 개인적인 게임 정보와 더불어 경기 데이터까지 제공한다. 통계적으로 하루 24시간 동안 수집되는 경기 수는 약 20만 건에 달하며, 소정의 절차를 거치면 손쉽게 얻을 수 있다.[<sup>[3]</sup>](https://www.leagueoflegends.com/ko-kr/news/)
+
+![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/fcb3669b-cd06-41d6-bec5-7d58c3d90f09)
+
+<div align=center>
+  
+[[자료: Riot Games 홈페이지 일부]](https://developer.riotgames.com/)
+
+</div>
+
 
 "LOL에서 다양한 변수를 고려하여 게임의 승패를 어떻게 가장 정확하게 예측할 수 있을까?" 이 문제를 해결하기 위해, 우리는 데이터 전처리, 탐색적 데이터 분석, 피처 엔지니어링, 모델 선택 및 튜닝 등의 단계를 거칠 예정이다. 이 과정에서, 우리는 각 변수가 승패에 어떠한 영향을 미치는지 이해하고, 그것을 바탕으로 승패를 가장 잘 예측하는 모델을 구축하려고 한다.
 
