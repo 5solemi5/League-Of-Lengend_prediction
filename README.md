@@ -125,6 +125,8 @@ https://developer.riotgames.com/
 
 [0825_game_data.pkl의 대략적 형태]
 
+(2) pickled된 데이터 프레임에서 각 게임의 플레이어들의 티어에 대한 정보를 분석하고, 모든 플레이어의 티어가 플래티넘 이상인 게임만을 추출하여 새로운 데이터 프레임을 만든 후, 이를 다시 pickle 파일로 저장하는 작업을 한다.
+
 | id | team | feature | TOP | MID | JUG | SPT | ADC |
 |---|---|---|---|---|---|---|---|
 | 6667524895 | 100 | kda | 1.4 | 1.5 | 2.5 | 10.0 | 9.5 |
@@ -140,6 +142,8 @@ https://developer.riotgames.com/
 | 6669000761 | 200 | tier | E | P | E | P | P |
 
 [0825_game_data_is_platinum.pkl의 대략적 형태]
+
+(3) 
 
 | id | team | feature | TOP | MID | JUG | SPT | ADC |
 |---|---|---|---|---|---|---|---|
