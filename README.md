@@ -7,9 +7,13 @@
   
 Riot Games에서 제공하는 게임 데이터를 활용한 게임 승패 예측 딥러닝 프로젝트
  
-<h2>:heavy_check_mark:Tech Stack</h2>
-<img src="https://img.shields.io/badge/PyTorch-E34F26?style=flat-square&logo=PyTorch&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<h2>:heavy_check_mark:requirements</h2>
+
+<img src="https://img.shields.io/badge/pandas-3776AB?style=flat-square&logo=pandas&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/numpy-3776AB?style=flat-square&logo=numpy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/matplotlibn-3776AB?style=flat-square&logo=matplotlib&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/keras-3776AB?style=flat-square&logo=keras&logoColor=white"/></a>
+
 
 </div>
 
