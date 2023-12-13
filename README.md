@@ -101,9 +101,9 @@ https://developer.riotgames.com/
 
 탐색적 데이터 분석과 데이터 전처리를 통해 다음과 같은 데이터 프레임을 만들고자 한다.
 
-| Id  | 팀  | 주요지표 | TOP |MID|
-|-----|-----|---------|-----|---|
-| 고유번호 | Red/Blue | kda, dpd, ...| ... |...|
+| id | team | feature | TOP | MID | JUG | SPT | ADC |
+|---|---|---|---|---|---|---|---|
+| 고유번호 | Red/Blue | kda, dpd, ...| ... |...|...|...|...|
 
 | id | team | feature | TOP | MID | JUG | SPT | ADC |
 |---|---|---|---|---|---|---|---|
