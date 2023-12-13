@@ -63,7 +63,7 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
 
 ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/bc39a7c5-2753-4f28-a2bc-848e79593a07)
 
-[[자료: 필모라 사이트]](ttps://filmora.wondershare.kr/game-information/lol-beginner-guide.html)
+[[자료: 필모라 사이트]](https://filmora.wondershare.kr/game-information/lol-beginner-guide.html)
 
 </details>
 
