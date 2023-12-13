@@ -47,13 +47,15 @@ https://developer.riotgames.com/
 ## 2.2 탐색적 데이터 분석
 데이터는 5대5 솔로 랭크 경기 약 20만 건으로 구성되어 있으며, 포지션별로 데이터가 구분되어 있다. 5가지 포지션에 대한 내용은 다음과 같다.
 
+
+
 | 포지션    |역할|
 |--------|---|
-| 탑(TOP) | 게임 맵의 상단 경로에서 주로 단독으로 플레이하며, 상대 플레이어와의 1대1 대결을 맡는 역할|
-| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/1a6a4b54-2f17-41ba-a6c7-28b1f34c958c) 정글(JUNGLE) | 맵 전체를 돌아다니며 각 라인에 관여하고, 중요한 목표물을 확보하는 역할|
-| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/0e49f640-a876-42e9-8c37-c3cfcb001b63) 미드(MID) | 게임 맵의 중앙 경로에서 주로 단독으로 플레이하며, 상대 플레이어와의 1대1 대결을 맡는 역할|
-| 원딜(ADC) | 게임 맵의 하단 경로에서 파트너인 서포터와 함께 플레이하며, 상대 팀과의 2대2 대결을 맡는 역할|
-| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/4fb5c1c4-b36f-4100-ac96-31c8f01337f0) 서포터(SUPPORT) | 게임 맵의 하단 경로에서 원딜을 지원하며, 상대 팀과의 2대2 대결에서 원딜을 보호하고 지원하는 역할|
+| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/38b457e8-d0cf-4dd4-90c3-2a85f6dcbc26) 탑(TOP) | 게임 맵의 상단 경로에서 주로 단독으로 플레이하며, 상대 플레이어와의 1대1 대결을 맡는 역할|
+| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/326fbea0-d1be-42b6-804d-1c79392bb892) 정글(JUNGLE) | 맵 전체를 돌아다니며 각 라인에 관여하고, 중요한 목표물을 확보하는 역할|
+| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/af7488f0-e72a-4b95-b448-c929e043d651) 미드(MID) | 게임 맵의 중앙 경로에서 주로 단독으로 플레이하며, 상대 플레이어와의 1대1 대결을 맡는 역할|
+| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/3a2d63a3-b1b0-438b-8f3a-cc5598304b15) 원딜(ADC) | 게임 맵의 하단 경로에서 파트너인 서포터와 함께 플레이하며, 상대 팀과의 2대2 대결을 맡는 역할|
+| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/6f888067-13c9-444a-8873-4cae991c43bb) 서포터(SUPPORT) | 게임 맵의 하단 경로에서 원딜을 지원하며, 상대 팀과의 2대2 대결에서 원딜을 보호하고 지원하는 역할|
 
 
 제공된 데이터의 항목은 총 185개로 구성되어 있으며, 전반적으로 다음과 같은 내용으로 정리해볼 수 있다.
