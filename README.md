@@ -60,9 +60,9 @@ https://developer.riotgames.com/
 
 | 항목           | 데이터 속성 |
 |--------------|--------|
-| 플레이어에 대한 데이터 | ???    |
-| 팀에 대한 데이터    | ???    |
-|라인전 전후에대한 데이터 |???|
+| 플레이어에 대한 데이터 | kda, cs, kills, deaths, assists ...|
+| 팀에 대한 데이터    | tdragon, baron, goldearned ... (team 데이터 구성이 플레이어에 대한 데이터와 유사하지만 팀 전체의 정보를 담고 있음 )|
+| 라인전 전후에 대한 데이터 | turretkills, visionscore, visionwardsbuy ...|
 
 여기서 중요하게 고려되는 항목들은 다음과 같다. (10개 이상)
 
