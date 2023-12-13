@@ -110,9 +110,10 @@ CNN을 썼다. 단순한 합산을 썼다.
 
 
 # Reference
-[<sup>[1]</sup>] https://www.pharmnews.com/news/articleView.html?idxno=213910
-[<sup>[2]</sup>] https://www.gamemeca.com/view.php?gid=1652452
-[<sup>[3]</sup>] https://www.leagueoflegends.com/ko-kr/news/
+https://www.pharmnews.com/news/articleView.html?idxno=213910
+https://www.gamemeca.com/view.php?gid=1652452
+https://www.youtube.com/watch?v=C3GouGa0noM
+https://www.leagueoflegends.com/ko-kr/news/
 https://developer.riotgames.com/
 
 
