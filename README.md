@@ -99,7 +99,8 @@ https://developer.riotgames.com/
 CNN을 썼다. 단순한 합산을 썼다.
 
 ## 3.2 성능
-플래티넘 이상 4.5만건, 데이터 전체 20만건
+
+주어진 결과를 보면 모델의 성능이 고려되는 플래티넘 이상 (4.5만건), 데이터 전체 (20만건)에서 모두 높은 정확도를 보여주고 있다.
 
 | 날짜   | 전체 데이터 예측 일치 횟수 | 전체 경기 수 | 전체 데이터 정확도 | 플래티넘 이상 데이터 예측 일치 횟수 | 플래티넘 이상 경기 수 | 플래티넘 이상 데이터 정확도 |
 |--------|-----------------------|--------------|--------------------|---------------------------------|----------------------|------------------------|
@@ -109,9 +110,9 @@ CNN을 썼다. 단순한 합산을 썼다.
 
 
 # Reference
-[<sup>[1]</sup>](https://www.pharmnews.com/news/articleView.html?idxno=213910)
-[<sup>[2]</sup>](https://www.gamemeca.com/view.php?gid=1652452)
-[<sup>[3]</sup>](https://www.leagueoflegends.com/ko-kr/news/)
+[<sup>[1]</sup>] https://www.pharmnews.com/news/articleView.html?idxno=213910
+[<sup>[2]</sup>] https://www.gamemeca.com/view.php?gid=1652452
+[<sup>[3]</sup>] https://www.leagueoflegends.com/ko-kr/news/
 https://developer.riotgames.com/
 
 
