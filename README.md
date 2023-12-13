@@ -44,19 +44,9 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
 이번 프로젝트에 활용할 데이터는 온라인 게임 코칭 전문기업인 더매치랩(The Match LAB)에서 [Riot Games](https://developer.riotgames.com/) 에서 제공한 데이터를 가공한 LOL 게임 데이터를 바탕으로 한다. 데이터는 2023년 8월 25일, 9월 15일, 9월 17일 각각 하루 동안 수집된 LOL 경기에 대한 세부 항목들로 구성되어 있다.
 
 ## 2.2 탐색적 데이터 분석
-데이터는 5대5 솔로 랭크 경기 약 20만 건으로 구성되어 있으며, 포지션별로 데이터가 구분되어 있다. 5가지 포지션에 대한 내용은 다음과 같다.
 
-| 포지션    |역할|
-|--------|---|
-| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/38b457e8-d0cf-4dd4-90c3-2a85f6dcbc26) 탑(TOP) | 게임 맵의 상단 경로에서 주로 단독으로 플레이하며, 상대 플레이어와의 1대1 대결을 맡는 역할|
-| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/326fbea0-d1be-42b6-804d-1c79392bb892) 정글(JUNGLE) | 맵 전체를 돌아다니며 각 라인에 관여하고, 중요한 목표물을 확보하는 역할|
-| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/af7488f0-e72a-4b95-b448-c929e043d651) 미드(MID) | 게임 맵의 중앙 경로에서 주로 단독으로 플레이하며, 상대 플레이어와의 1대1 대결을 맡는 역할|
-| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/3a2d63a3-b1b0-438b-8f3a-cc5598304b15) 원딜(ADC) | 게임 맵의 하단 경로에서 파트너인 서포터와 함께 플레이하며, 상대 팀과의 2대2 대결을 맡는 역할|
-| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/6f888067-13c9-444a-8873-4cae991c43bb) 서포터(SUPPORT) | 게임 맵의 하단 경로에서 원딜을 지원하며, 상대 팀과의 2대2 대결에서 원딜을 보호하고 지원하는 역할|
-
-- 대략적인 게임 설명:
-  
-  롤은 5대5 팀 게임으로, 상대 진영의 포탑과 넥서스를 파괴함으로써 승리하는 게임이다. 
+<details>
+  <summary>대략적인 LoL 게임 설명: 롤은 5대5 팀 게임으로, 상대 진영의 포탑과 넥서스를 파괴함으로써 승리하는 게임이다. </summary>
 
 (1) 우물, 집
 게임이 시작되면, 각 팀의 진영에서 챔피언들이 소환되는데 그곳을 우물 또는 집이라고 부른다. 이곳에서는 아이템을 사고, 체력과 마나를 빠르게 회복할 수 있다.
@@ -72,6 +62,18 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
 롤의 맵에는 넥서스를 지키는 포탑들이 각 라인을 따라 위치하고 있다. 차례대로 1차 포탑(외곽 포탑), 2차 포탑(내부 포탑), 억제기 포탑, 쌍둥이 포탑이 넥서스를 보호하고 있다. 추가로, 억제기를 부술 경우, 일정 시간 동안 아군을 도와주는 슈퍼 미니언이 소환되기 때문에 게임을 유리하게 풀어가는 데 도움이 된다.
 
 ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/bc39a7c5-2753-4f28-a2bc-848e79593a07)
+
+</details>
+
+데이터는 5대5 솔로 랭크 경기 약 20만 건으로 구성되어 있으며, 포지션별로 데이터가 구분되어 있다. 5가지 포지션에 대한 내용은 다음과 같다.
+
+| 포지션    |역할|
+|--------|---|
+| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/38b457e8-d0cf-4dd4-90c3-2a85f6dcbc26) 탑(TOP) | 게임 맵의 상단 경로에서 주로 단독으로 플레이하며, 상대 플레이어와의 1대1 대결을 맡는 역할|
+| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/326fbea0-d1be-42b6-804d-1c79392bb892) 정글(JUNGLE) | 맵 전체를 돌아다니며 각 라인에 관여하고, 중요한 목표물을 확보하는 역할|
+| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/af7488f0-e72a-4b95-b448-c929e043d651) 미드(MID) | 게임 맵의 중앙 경로에서 주로 단독으로 플레이하며, 상대 플레이어와의 1대1 대결을 맡는 역할|
+| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/3a2d63a3-b1b0-438b-8f3a-cc5598304b15) 원딜(ADC) | 게임 맵의 하단 경로에서 파트너인 서포터와 함께 플레이하며, 상대 팀과의 2대2 대결을 맡는 역할|
+| ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/6f888067-13c9-444a-8873-4cae991c43bb) 서포터(SUPPORT) | 게임 맵의 하단 경로에서 원딜을 지원하며, 상대 팀과의 2대2 대결에서 원딜을 보호하고 지원하는 역할|
 
 
 제공된 데이터의 항목은 총 185개로 구성되어 있으며, 전반적으로 다음과 같은 내용으로 정리해볼 수 있다.
