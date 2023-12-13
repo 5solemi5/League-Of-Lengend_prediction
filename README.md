@@ -66,7 +66,7 @@ https://developer.riotgames.com/
 | 팀에 대한 데이터    | tdragon, baron, goldearned ... (team 데이터 구성이 플레이어에 대한 데이터와 유사하지만 팀 전체의 정보를 담고 있음 )|
 | 라인전 전후에 대한 데이터 | turretkills, visionscore, visionwardsbuy ...|
 
-여기서 중요하게 고려되는 항목들은 다음과 같다. 
+여기서 중요하게 고려되는 대략적인 항목들은 다음과 같다. 
 
 | 데이터 속성 | 데이터의 의미 | 중요한 이유 |
 |-------------|--------------|-------------|
