@@ -222,3 +222,5 @@ https://www.youtube.com/watch?v=C3GouGa0noM
 https://www.leagueoflegends.com/ko-kr/news/
 
 https://developer.riotgames.com/
+
+https://filmora.wondershare.kr/game-information/lol-beginner-guide.html
