@@ -143,7 +143,7 @@ https://developer.riotgames.com/
 
 [0825_game_data_is_platinum.pkl의 대략적 형태]
 
-(3) 
+(3) pickle로 저장된 데이터 프레임을 읽어와서 각 게임의 각 팀에 대한 각 피처('kda', 'dpd', 'dpm', 'dpg', 'dtpm')의 값을 0과 1 사이로 정규화하여 새로운 데이터 프레임을 만들고, 이를 다시 pickle로 저장하는 작업을 한다. 
 
 | id | team | feature | TOP | MID | JUG | SPT | ADC |
 |---|---|---|---|---|---|---|---|
