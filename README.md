@@ -60,7 +60,7 @@ https://developer.riotgames.com/
 
 | 항목           | 데이터 속성 |
 |--------------|--------|
-| 플레이어에 대한 데이터 | kda, cs, kills, deaths, assists ...|
+| 플레이어에 대한 데이터 | champlevel, dealt, dealtm, dealtp, dealttaken, deaths, doublekill, dragon, fbassist, fbkill, ftassist, ftkill, goldearned, goldspent, heal, herald, jungle, kills  ...|
 | 팀에 대한 데이터    | tdragon, baron, goldearned ... (team 데이터 구성이 플레이어에 대한 데이터와 유사하지만 팀 전체의 정보를 담고 있음 )|
 | 라인전 전후에 대한 데이터 | turretkills, visionscore, visionwardsbuy ...|
 
