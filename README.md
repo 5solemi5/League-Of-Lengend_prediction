@@ -7,7 +7,7 @@
   
 Riot Games에서 제공하는 게임 데이터를 활용한 게임 승패 예측 딥러닝 프로젝트
  
-<h2>:heavy_check_mark:requirements</h2>
+<h2>:heavy_check_mark:requirements:heavy_check_mark:</h2>
 
 <img src="https://img.shields.io/badge/pandas-3776AB?style=flat-square&logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/numpy-3776AB?style=flat-square&logo=numpy&logoColor=white"/></a>
