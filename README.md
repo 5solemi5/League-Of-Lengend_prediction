@@ -171,6 +171,13 @@ CNN을 썼다. 단순한 합산을 썼다.
 | 0917   | 248497                | 264395       | 약 0.94 | 23912                           | 25208                | 약 0.95     |
 
 
+## 3.3 소결
+* 성능에 대한 의미
+* 핵심 데이터 항목에 대한 추정 및 분석
+
+# 4. 결론 및 배운점
+
+
 # Reference
 https://www.pharmnews.com/news/articleView.html?idxno=213910
 
@@ -181,10 +188,3 @@ https://www.youtube.com/watch?v=C3GouGa0noM
 https://www.leagueoflegends.com/ko-kr/news/
 
 https://developer.riotgames.com/
-
-
-## 3.3 소결
-* 성능에 대한 의미
-* 핵심 데이터 항목에 대한 추정 및 분석
-
-# 4. 결론 및 배운점
