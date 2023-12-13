@@ -82,6 +82,13 @@ CNN을 썼다. 단순한 합산을 썼다.
 플래티넘 이상 4.5만건
 데이터 전체 20만건
 
+# Reference
+[<sup>[1]</sup>](https://www.pharmnews.com/news/articleView.html?idxno=213910)
+[<sup>[2]</sup>](https://www.gamemeca.com/view.php?gid=1652452)
+[<sup>[3]</sup>](https://www.leagueoflegends.com/ko-kr/news/)
+https://developer.riotgames.com/
+
+
 ## 3.3 소결
 * 성능에 대한 의미
 * 핵심 데이터 항목에 대한 추정 및 분석
