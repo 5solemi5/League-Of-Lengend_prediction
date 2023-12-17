@@ -231,7 +231,7 @@ LOL을 개발한 Riot Games는 비단 게임 자체의 재미뿐만 아니라 �
 
 ### 3.1.1 CNN
 
-(1) 
+(1) 합성곱 신경망(Convolutional Neural Network, CNN) 모델에 적합한 형태로 변환하는 전처리 작업
 
 (2) pickle 파일에 저장된 게임 데이터를 CSV 파일로 변환
 
