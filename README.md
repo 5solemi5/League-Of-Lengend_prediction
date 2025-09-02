@@ -3,7 +3,7 @@
 ![image](https://github.com/5solemi5/League-Of-Lengend_prediction/assets/104000117/77ba308a-dfc7-4b6a-ab32-9b4f879cd722)
 
 
-# 🗡️🏹 League Of Lengend 승패예측 딥러닝🎮 
+# 🗡️🏹 League Of Lengendㄴ 승패예측 딥러닝🎮 
   
 Riot Games에서 제공하는 게임 데이터를 활용한 게임 승패 예측 딥러닝 프로젝트
  
