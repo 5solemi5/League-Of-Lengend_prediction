@@ -1,0 +1,10 @@
+# data (원본 데이터는 용량 문제로 제외)
+*.csv
+*.pkl
+*.xlsx
+*.h5
+# env
+venv/
+.venv/
+.idea/
+__pycache__/
